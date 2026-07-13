@@ -48,8 +48,7 @@ Running the benchmark visualizes the dramatic difference in the optimization pat
 To run the benchmark and generate the comparative plot on your local machine:
 
 ```bash
-git clone [[https://github.com/](https://github.com/)[MohammadBidkhori]/Matrix-Factorization-Benchmark.git](https://github.com/MohammadBidkhori/Matrix-Factorization-Benchmark.git)
-
+git clone https://github.com/MohammadBidkhori/Matrix-Factorization-Benchmark.git
 cd Matrix-Factorization-Benchmark
 pip install numpy matplotlib
 python benchmark.py
